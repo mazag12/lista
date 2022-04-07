@@ -6,7 +6,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2549" group="News" logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" tvg-country="PE", ATV+ Noticias (480p) [Not 24/7]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1956" group="General" logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE", Panamericana
-https://dai.ly/x774s7s
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Local" logo="https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" tvg-country="PE", Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
 https://tv.portalexpress.es:3270/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="2542" group="General" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="PE", TV Perú (450p) [Not 24/7]
