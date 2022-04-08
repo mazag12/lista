@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="962" group="General" logo="https://graph.facebook.com/ATV.pe/picture?width=320&height=320" tvg-country="PE", ATV (480p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="1" group="General" logo="https://graph.facebook.com/ATV.pe/picture?width=320&height=320" tvg-country="PE", ATV (480p) [Not 24/7]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2549" group="News" logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" tvg-country="PE", ATV+ Noticias (480p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="2" group="News" logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" tvg-country="PE", ATV+ Noticias (480p) [Not 24/7]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1956" group="General" logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE", Panamericana
+#EXTINF:0 type="stream" channelId="3" group="General" logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE", Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Local" logo="https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" tvg-country="PE", Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="4" group="Local" logo="https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" tvg-country="PE", Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
 https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV | PE
+#EXTINF:-1 tvg-id="5" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV | PE
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa | PE
+#EXTINF:-1 tvg-id="6" tvg-name="Exitosa" tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg", Exitosa | PE
 https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="2542" group="General" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="PE", TV Perú (450p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="7" group="General" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="PE", TV Perú (450p) [Not 24/7]
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="HISPAM", TV Perú Internacional (460p)
+#EXTINF:0 type="stream" channelId="8" group="General" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="HISPAM", TV Perú Internacional (460p)
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Local" logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" tvg-country="PE", Central TV (Chosica) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
