@@ -12,7 +12,7 @@ https://tv.portalexpress.es:3270/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="2542" group="General" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="PE", TV Perú (450p) [Not 24/7]
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="HISPAM", TV Perú Internacional (460p)
-http://cdnh4.iblups.com/hls/irtp.m3u8
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:0 type="stream" channelId="287" group="Sports" tvg-country="HISPAM", Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:0 type="stream" channelId="-1" group="Animation" logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" tvg-country="HISPAM;ES", Anime Zone TV (480p) [Not 24/7]
